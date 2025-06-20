@@ -6,4 +6,6 @@
 ## Pregunta 3
 * Para mi proyecto voy a necesitar de la terminal bash, ATOM, Mesquite, IQTREE y posiblemente otros programas por definir.
 ## Pregunta 4
+
+
 ![alt text](https://es.wikipedia.org/wiki/CHEK1#/media/Archivo:Protein_CHEK1_PDB_1ia8.png)
