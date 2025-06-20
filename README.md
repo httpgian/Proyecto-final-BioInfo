@@ -8,4 +8,4 @@
 ## Pregunta 4
 
 
-![alt text](https://es.wikipedia.org/wiki/CHEK1#/media/Archivo:Protein_CHEK1_PDB_1ia8.png)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3miTq7axlz4fFv22eVAk9jFArA_5bBPwrHQ&s)
