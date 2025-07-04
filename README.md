@@ -20,6 +20,4 @@ Se va a utilizar la terminal GIT Bash para correr el programa, ATOM para curar l
 
 Para poder utilizar el script se necesita primeramente tener acceso a la terminal Bash e instalar los programas mencionados en la sección REQUISITOS.
 
-```
-module load 
-```
+Adicionalmente para correr el script es necesario descargar la carpeta con archivos
