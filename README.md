@@ -52,7 +52,7 @@ Terminado esto lo volvemos a subir a Hoffman y corremos el script Header.sh
 ```
 qsub Header.sh
 ```
-**NOTA** Debido a los 
+**NOTA** Debido a los problemas que tuve con el programa de IQTREE, el modelo para esta filogenia es el GTR+F+R9
 
 Finalmente descargamos el archivo primates_chk1.fna.treefile en la computadora local en Desktop
 ```
