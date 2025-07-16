@@ -1,17 +1,12 @@
-# Get all genes for a class (mammals in this case)
-./datasets download gene symbol CHK1 --ortholog mammals --filename chk1_mammlas.zip
+# Get all genes for an order
+./datasets download gene symbol CHK1 --ortholog primates --filename chk1_primates.zip
 
 # Unzip the genes previously downloaded
-unzip chk1_mammlas.zip
+unzip chk1_primates.zip
 
 # Copy the genes in the current directory
 cp ncbi_dataset/data/rna.fna .
 
 # Align genes
-./muscle3.8.31_i86linux64 -in *.fna -out muscle_chk1.fna -maxiters 1 -diags
+./muscle3.8.31_i86linux64 -in *.fna -out primates_chk1.fna -maxiters 1 -diags
 
-# Do filogeny with IQTREE
-for muscle in muscle_*
-do
-iqtree2 -s ${muscle}
-done
